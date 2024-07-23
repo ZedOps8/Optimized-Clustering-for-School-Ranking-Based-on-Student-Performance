@@ -1,1 +1,1 @@
-# Optimized-Clustering-for-School-Ranking-Based-on-Student-Performance
+# IEEE Paper Published: Centroid Based Clustering Models for Designing Dense Ranking of Schools Focusing on Total Marks of Individual Students in a Common Examination
